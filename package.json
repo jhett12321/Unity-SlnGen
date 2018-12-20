@@ -1,0 +1,11 @@
+{
+    "name": "com.blackfeatherproductions.slngen",
+    "displayName": "SlnGen",
+    "version": "1.0.1",
+    "unity": "2018.1",
+    "description": "SlnGen is a editor plugin that generates project/solution configurations for different targets in the Unity Editor.",
+    "keywords": [
+      "tool"
+    ],
+    "category": "Editor Utilities"
+}
