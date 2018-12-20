@@ -15,4 +15,14 @@ Unity: 2018.1 or greater
 IDEs: Tested with Visual Studio 2017, Rider 2018.
 
 ## Installation
+### 2018.3 or Higher
+
+Add the following line to your project's "/Packages/manifest.json" file.
+
+```
+"com.blackfeatherproductions.slngen": "https://github.com/jhett12321/Unity-SlnGen.git"
+```
+
+### Others
+
 See [Releases](https://github.com/jhett12321/Unity-Slngen/releases) for a .unitypackage.
